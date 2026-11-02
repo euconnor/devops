@@ -3,9 +3,9 @@ copyright: Contributors to the Open Horizon project
 years: 2025 - 2026
 title: Windows WSL2 Installation
 description: Documentation for Horizon Management Hub
-lastupdated: 2026-10-15
-nav_order: 3
-parent: Management Hub
+lastupdated: 2026-11-02
+nav_order: 6
+parent: Installing the management hub only
 ---
 
 # Windows WSL2 Installation Instructions
