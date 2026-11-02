@@ -28,7 +28,7 @@ If Windows Store has it available, install WSL2 there.  You may need to search f
 
 ## WSL2 is required
 
-Note that WSL2 (i.e., version 2 of Windows Subsystemn for Linux) is required to run the Linux-based Agent on Windows 10 and 11. Virtualization support must also be enabled for WSL2. If you do not have WSL2 installed and verified, please follow the official Windows WSL2 instructions to install and verify WSL2 with an official WSL2 ubuntu image:
+Note that WSL2 (i.e., version 2 of Windows Subsystem for Linux) is required to run the Linux-based Agent on Windows 10 and 11. Virtualization support must also be enabled for WSL2. If you do not have WSL2 installed and verified, please follow the official Windows WSL2 instructions to install and verify WSL2 with an official WSL2 ubuntu image:
 
 [https://docs.microsoft.com/en-us/windows/wsl/install](https://docs.microsoft.com/en-us/windows/wsl/install)
 
