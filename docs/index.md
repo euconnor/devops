@@ -3,8 +3,8 @@ copyright: Contributors to the Open Horizon project
 years: 2025 - 2026
 title: Getting to know the management hub
 description: Documentation for Horizon Management Hub
-lastupdated: 2026-10-28
-nav_order: 2
+lastupdated: 2026-11-11
+nav_order: 1
 parent: Installing the management hub only
 ---
 # Horizon Management Hub
